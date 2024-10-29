@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvazoumo.github.io/sitemap_index.uvazoumo
